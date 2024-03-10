@@ -11,4 +11,4 @@ Behold as I conjure web & mobile applications of unparalleled beauty and functio
 ## 🚀 Let's Make Magic Together!
 Are you ready to embark on a quest for digital greatness? Whether you're a fellow wizard of the web or a visionary with a grand idea, I invite you to join forces and create something truly extraordinary. Together, we'll push the boundaries of possibility and leave a lasting mark on the digital universe.
 
-[![View Portfolio](https://img.shields.io/badge/View%20Portfolio-007bff?style=for-the-badge)](https://lafacodes.pages.dev/)
+[![View Portfolio](https://img.shields.io/badge/View%20Portfolio-007bff?style=for-the-badge)](https://lafacodes.github.io/)
