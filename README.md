@@ -12,4 +12,4 @@ I develop robust, secure, and lightweight web and mobile applications. My expert
 Excited about AI and the latest tech? Interested in working together? Whether you're a developer or have an innovative idea, let's team up and create something amazing while making a positive impact.
 
 
-[![View Portfolio](https://img.shields.io/badge/View%20Portfolio-007bff?style=for-the-badge)](https://lafacodes.github.io/)
+[![View Portfolio](https://img.shields.io/badge/View%20Portfolio-007bff?style=for-the-badge)](https://lafa.codes/)
